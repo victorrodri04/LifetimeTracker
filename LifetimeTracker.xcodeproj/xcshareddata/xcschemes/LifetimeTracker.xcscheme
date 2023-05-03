@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "52D6D9E11BEFFF6E002C0205"
+               BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
                BuildableName = "LifetimeTracker.framework"
-               BlueprintName = "LifetimeTracker-watchOS"
+               BlueprintName = "LifetimeTracker"
                ReferencedContainer = "container:LifetimeTracker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES"
       codeCoverageEnabled = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
+            BuildableName = "LifetimeTracker.framework"
+            BlueprintName = "LifetimeTracker"
+            ReferencedContainer = "container:LifetimeTracker.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "52D6D9851BEFF229002C0205"
+               BuildableName = "LifetimeTracker-iOS Tests.xctest"
+               BlueprintName = "LifetimeTracker-iOS Tests"
+               ReferencedContainer = "container:LifetimeTracker.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
@@ -44,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52D6D9E11BEFFF6E002C0205"
+            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
             BuildableName = "LifetimeTracker.framework"
-            BlueprintName = "LifetimeTracker-watchOS"
+            BlueprintName = "LifetimeTracker"
             ReferencedContainer = "container:LifetimeTracker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -60,9 +79,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52D6D9E11BEFFF6E002C0205"
+            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
             BuildableName = "LifetimeTracker.framework"
-            BlueprintName = "LifetimeTracker-watchOS"
+            BlueprintName = "LifetimeTracker"
             ReferencedContainer = "container:LifetimeTracker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

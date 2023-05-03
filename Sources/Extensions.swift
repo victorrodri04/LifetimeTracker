@@ -9,8 +9,7 @@
 import Foundation
 
 internal extension String {
-
     var lt_localized: String {
-        Bundle.resolvedBundle.localizedString(forKey: self, value: self, table: nil)
+        return NSLocalizedString(self, bundle: .resolvedBundle, comment: self)
     }
 }
